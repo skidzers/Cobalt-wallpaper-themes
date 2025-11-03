@@ -1,6 +1,16 @@
-# Cobalt-wallpaper-themes
+<p class="Title" align="center">
+Cobalt Wallpaper
+</p>
+  
 <p align="center">
-<img alt="Profile" src="https://github.com/user-attachments/assets/2df63c81-97ce-460c-b0fe-cf0f2489e46c" />
+skidzers
+</p>
+<p align="center">
+<img width=200 alt="Profile" src="https://github.com/user-attachments/assets/2df63c81-97ce-460c-b0fe-cf0f2489e46c" />
+</p>
+
+<p align="center">
+Made with love
 </p>
 
 --------------------------------
