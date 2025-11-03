@@ -1,9 +1,11 @@
 # Cobalt-wallpaper-themes
-i looooovveee coblt 
+<p align="center">
+<img alt="Profile" src="https://github.com/user-attachments/assets/2df63c81-97ce-460c-b0fe-cf0f2489e46c" />
+</p>
 
 --------------------------------
 
-# --TILE--
+--TILE--
 
 # Terrafox
 
