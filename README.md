@@ -15,39 +15,45 @@ Made with love
 
 --------------------------------
 
---TILE--
+# Everforest
 
-# Terrafox
-
-<img width="120" height="120" alt="cobalt_TerraFox" src="https://github.com/user-attachments/assets/78eaaa54-936f-490d-beab-12ede379c402" />
+<img width="230" height="230" alt="cobalt_Everforest" src="https://github.com/user-attachments/assets/55892e27-ea3f-4235-aa14-8ebce9d367b0" />
 
 --------------------------------
 
-# Everforest
+# Nord
 
-<img width="120" height="120" alt="cobalt_Everforest" src="https://github.com/user-attachments/assets/2c55b88e-7550-4086-85be-7eb49c390937" />
+<img width="230" height="230" alt="cobalt_Nord" src="https://github.com/user-attachments/assets/a06a1a82-4df2-4560-80a5-04071c3d3eaa" />
 
 --------------------------------
 
 # Gruvbox
 
-<img width="120" height="120" alt="cobalt_Gruvbox" src="https://github.com/user-attachments/assets/63c270b9-62c1-40cb-ae72-1740fc2723ff" />
+<img width="230" height="230" alt="cobalt_Gruvbox" src="https://github.com/user-attachments/assets/52a59a94-32b8-4e89-a7f8-0203bb07d02e" />
 
 --------------------------------
 
 # Rose-pine
 
-<img width="120" height="120" alt="cobalt_RosePine" src="https://github.com/user-attachments/assets/0b8d7969-8a8b-4a7e-985c-d8271b01875f" />
+<img width="230" height="230" alt="cobalt_RosePine" src="https://github.com/user-attachments/assets/96b75151-b3ec-49c5-a8ca-1d6093d47051" />
 
 --------------------------------
 
 # Macchiato
 
-<img width="120" height="120" alt="cobaltMacchiato" src="https://github.com/user-attachments/assets/1e9a8394-5862-45c5-9b63-5109b7220ec1" />
+<img width="230" height="230" alt="cobalt_Macchiato" src="https://github.com/user-attachments/assets/c963ed4c-2a33-4c78-afbe-7b751ce481a5" />
 
 --------------------------------
 
 # Adventure Time
 
-<img width="120" height="120" alt="cobalt_AdventureTime" src="https://github.com/user-attachments/assets/af76e8e9-5560-4bb5-826a-6c9c5368f978" />
+<img width="230" height="230" alt="cobalt_AdventureTime" src="https://github.com/user-attachments/assets/7a2f6d6e-68a0-4545-b6ba-656aeea6c40b" />
+
+--------------------------------
+Base2Tone sets
+
+<img width="230" height="230" alt="cobalt_Base2Tone-Desert" src="https://github.com/user-attachments/assets/2b84362f-cbc4-4698-8190-faa83ede7fe0" />
+<img width="230" height="230" alt="cobalt_Base2Tone-Drawbridge" src="https://github.com/user-attachments/assets/ad862ea3-a632-4de0-bdda-197792e428a5" />
+<img width="230" height="230" alt="cobalt_Base2Tone-Evening" src="https://github.com/user-attachments/assets/7a8c84ea-3ee0-45c5-8d53-5cb3a9e7b9af" />
+<img width="230" height="230" alt="cobalt_Base2Tone-Forest" src="https://github.com/user-attachments/assets/1f429599-88b3-4577-aa05-e7bbbb662b12" />
 
