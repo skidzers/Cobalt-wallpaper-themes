@@ -1,17 +1,12 @@
 <p class="Title" align="center">
 Cobalt Wallpaper
 </p>
-  
-<p align="center">
-skidzers
-</p>
-<p align="center">
-<img width=200 alt="Profile" src="https://github.com/user-attachments/assets/2df63c81-97ce-460c-b0fe-cf0f2489e46c" />
-</p>
 
 <p align="center">
-Made with love
+<img width="402" height="240" alt="bitmap" src="https://github.com/user-attachments/assets/e3c8721c-f00f-4ecb-a40e-092a7f2fa7bc" />
+
 </p>
+
 
 --------------------------------
 
